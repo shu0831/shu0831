@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shu0831
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 6
+- 💞️ I’m looking to collaborate for dev
 - 📫 How to reach me shu10sm77second@gmail.com
 
 
