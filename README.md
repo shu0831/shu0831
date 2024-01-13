@@ -5,7 +5,7 @@
 - 📫 How to reach me shu10sm77second@gmail.com
 
 
-calc for ohoh
+
 
 
 <!---
