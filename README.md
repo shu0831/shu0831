@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shu0831
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate for dev
 - 📫 How to reach me shu10sm77second@gmail.com
 
